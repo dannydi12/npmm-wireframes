@@ -1,0 +1,28 @@
+.topnav {
+  display: inline-flex;
+  width: 100vw;
+  justify-content: space-between;
+  background-color: grey;
+}
+
+.rightOpen {
+  width: 15vw;
+  margin-left: auto;
+  height: 25vw;
+}
+
+.menu {
+  text-align: center;
+}
+
+.topnav input {
+  margin-top: auto;
+  margin-bottom: auto;
+  width:30%;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
